@@ -1,0 +1,6 @@
+datos ={
+    "animales": {
+        "perros": [],
+        "gatos": []
+    },
+}
