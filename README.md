@@ -1,19 +1,7 @@
-# 🎈 Blank app template
+# Technovation Girls -- Streamlit Web App
 
-A simple Streamlit app template for you to modify!
+El objetivo de este repositorio es facilitar el primer contacto con Streamlit y Python permitiendo centrarse en el desarrollo de la aplicación de forma directa, sin necesidad de muchos preparativos y minimizando los problemas al configurar los entornos locales, permitiendo el desarrollo desde cualquier ordenador.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## [1. Setup Inicial](1.Setup)
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## [2. Carta de presentación](2.Presentacion)
