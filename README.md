@@ -1,4 +1,7 @@
-![Image description](https://powertocode.org/wp-content/uploads/2023/10/tg-girls-logo-2ba7f013defb45c388aa736343073910d3ea1c5738693a196c59693643d0ffc3-1-768x262.png)
+
+<p align="center" >
+  <img src="https://powertocode.org/wp-content/uploads/2023/10/tg-girls-logo-2ba7f013defb45c388aa736343073910d3ea1c5738693a196c59693643d0ffc3-1-768x262.png" />
+</p>
 <p align="center" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="100" />
   <img src="https://docs.streamlit.io/logo.svg" height="100" /> 
