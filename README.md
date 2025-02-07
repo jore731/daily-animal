@@ -21,7 +21,7 @@ Para poder seguir esta guía, se necesitará:
 - Un ordenador con conexión a internet
 - Un correo electrónico al que podamos acceder
 
-No obstante, a pesar de no ser imprescindible, es recomendable tener un conocimiento básico sobre Python y Streamlit, para lo cual se pueden utilizar los siguientes videos preparados por el equipo de Technovation Girls así como el contenido del currículum.
+No obstante, a pesar de no ser imprescindible, es recomendable tener un conocimiento básico sobre Python y Streamlit, para lo cual se pueden utilizar los videos preparados por el equipo de Technovation Girls así como el contenido del currículum.
 
 ## Setup Inicial
 
