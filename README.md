@@ -23,6 +23,14 @@ Para poder seguir esta guía, se necesitará:
 
 No obstante, a pesar de no ser imprescindible, es recomendable tener un conocimiento básico sobre Python y Streamlit, para lo cual se pueden utilizar los videos preparados por el equipo de Technovation Girls así como el contenido del currículum.
 
+## Ejemplos de aplicaciones
+
+Streamlit tiene una galería con muchas aplicaciones hechas por la gente con su librería, podeis explorar el catálogo [aquí]() para buscar ideas.
+
+Dos aplicaciones muy interesantes son:
+- [Webb Compare](https://webb-compare.streamlit.app/) -- Muestra comparativas de imágenes sacadas por los telescopios Hubble (1990) y James Webb (2021) donde podemos ver la mejora de la tecnología.
+- [PrettyMap](https://prettymapp.streamlit.app/) -- Una aplicación que genera mapas con diseños bonitos a partir de una dirección. 
+
 ## Setup Inicial
 
 En el apartado [Setup Inicial](1.Setup) podemos encontrar una pequeña guía para crear las distintas cuentas que necesitaremos así como una copia editable de este proyecto para utilizarlo como punto de partida para las sucesitas tareas.
