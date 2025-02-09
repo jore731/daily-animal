@@ -5,6 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "App",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "streamlit_app.py"
+            ],
+        },
+        {
             "name": "2.Interfaz",
             "type": "debugpy",
             "request": "launch",
