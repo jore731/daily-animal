@@ -50,4 +50,4 @@ Una vez que tenemos las cuentas y el repositorio creados, solo nos faltaría reg
 
 Y LISTO! Ya tendremos nuestra primera web app creada con Streamlit!
 
-</details>
+[<- Volver](README.md)

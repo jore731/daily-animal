@@ -1,4 +1,3 @@
-
 <p align="center" >
   <img src="https://powertocode.org/wp-content/uploads/2023/10/tg-girls-logo-2ba7f013defb45c388aa736343073910d3ea1c5738693a196c59693643d0ffc3-1-768x262.png" />
 </p>
@@ -28,12 +27,13 @@ No obstante, a pesar de no ser imprescindible, es recomendable tener un conocimi
 Streamlit tiene una galería con muchas aplicaciones hechas por la gente con su librería, podeis explorar el catálogo [aquí]() para buscar ideas.
 
 Dos aplicaciones muy interesantes son:
+
 - [Webb Compare](https://webb-compare.streamlit.app/) -- Muestra comparativas de imágenes sacadas por los telescopios Hubble (1990) y James Webb (2021) donde podemos ver la mejora de la tecnología.
-- [PrettyMap](https://prettymapp.streamlit.app/) -- Una aplicación que genera mapas con diseños bonitos a partir de una dirección. 
+- [PrettyMap](https://prettymapp.streamlit.app/) -- Una aplicación que genera mapas con diseños bonitos a partir de una dirección.
 
 ## Setup Inicial
 
-En el apartado [Setup Inicial](1.Setup) podemos encontrar una pequeña guía para crear las distintas cuentas que necesitaremos así como una copia editable de este proyecto para utilizarlo como punto de partida para las sucesitas tareas.
+En el apartado [1.Setup](1.Setup) podemos encontrar una pequeña guía para crear las distintas cuentas que necesitaremos así como una copia editable de este proyecto para utilizarlo como punto de partida para las sucesitas tareas.
 
 ## Ejercicios
 
@@ -41,8 +41,8 @@ A lo largo de la sesión, veremos varios ejercicios de menor a mayor dificultad 
 
 Los distintos ejercicios son:
 
-## [2.Interfaz](2.Interfaz)
+## [2.Bases](2.Bases)
 
-## [3.Logica](3.Logica)
+## [3.Interfaz](3.Interfaz)
 
-## [4.Organización](3.Organizacion)
+## [4.Logica](3.Logica)

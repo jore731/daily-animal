@@ -1,6 +1,0 @@
-datos ={
-    "animales": {
-        "perros": [],
-        "gatos": []
-    },
-}

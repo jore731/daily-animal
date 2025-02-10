@@ -1,5 +1,25 @@
+# Info parte 1
+
+nombre_elefante = "elefante"
+descripcion_elefante = "Los elefantes son los animales terrestres más grandes del mundo, conocidos por su inteligencia y fuertes lazos sociales."
+paises_elefante = ["Kenya", "Tanzania", "Zimbabwe", "Botswana"]
+coordenadas_elefante = [
+    {"latitude": -1.2921, "longitude": 36.8219},
+    {"latitude": -6.369028, "longitude": 34.888822},
+    {"latitude": -19.015438, "longitude": 29.154857},
+    {"latitude": -22.328474, "longitude": 24.684866},
+]
+foto_elefante = "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+
+bandera_kenya = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1920px-Flag_of_Kenya.svg.png"
+bandera_tanzania = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1920px-Flag_of_Tanzania.svg.png"
+bandera_zimbabwe = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1920px-Flag_of_Zimbabwe.svg.png"
+bandera_bostwana = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1920px-Flag_of_Botswana.svg.png"
+
+# Info parte 2
 animales = {
     "elefante": {
+        "nombre": "elefante",
         "descripcion": "Los elefantes son los animales terrestres más grandes del mundo, conocidos por su inteligencia y fuertes lazos sociales.",
         "paises": ["Kenya", "Tanzania", "Zimbabwe", "Botswana"],
         "coordenadas": [
@@ -11,6 +31,7 @@ animales = {
         "foto": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
     },
     "pingüino": {
+        "nombre": "pingüino",
         "descripcion": "Los pingüinos son aves marinas no voladoras que viven en el hemisferio sur.",
         "paises": ["Sudafrica", "Argentina", "Chile", "Nueva Zelanda"],
         "coordenadas": [
@@ -22,6 +43,7 @@ animales = {
         "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Shetland-2016-Deception_Island–Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg/1024px-South_Shetland-2016-Deception_Island–Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg",
     },
     "jirafa": {
+        "nombre": "jirafa",
         "descripcion": "Las jirafas son los animales más altos del mundo, con cuellos largos y patas largas.",
         "paises": ["Kenya", "Tanzania", "Namibia", "Botswana"],
         "coordenadas": [
