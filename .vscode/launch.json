@@ -15,23 +15,33 @@
             ],
         },
         {
-            "name": "2.Interfaz",
+            "name": "2.Bases",
             "type": "debugpy",
             "request": "launch",
             "module": "streamlit",
             "args": [
                 "run",
-                "2.Interfaz/streamlit_app.py"
+                "2.Bases/streamlit_app.py"
             ],
         },
         {
-            "name": "3.Logica",
+            "name": "3.Interfaz",
             "type": "debugpy",
             "request": "launch",
             "module": "streamlit",
             "args": [
                 "run",
-                "3.Logica/streamlit_app.py"
+                "3.Interfaz/streamlit_app.py"
+            ],
+        },
+        {
+            "name": "4.Logica",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "4.Logica/streamlit_app.py"
             ],
         }
     ]

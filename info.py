@@ -2,7 +2,6 @@
 
 nombre_elefante = "elefante"
 descripcion_elefante = "Los elefantes son los animales terrestres más grandes del mundo, conocidos por su inteligencia y fuertes lazos sociales."
-paises_elefante = ["Kenya", "Tanzania", "Zimbabwe", "Botswana"]
 coordenadas_elefante = [
     {"latitude": -1.2921, "longitude": 36.8219},
     {"latitude": -6.369028, "longitude": 34.888822},
@@ -15,6 +14,8 @@ bandera_kenya = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_
 bandera_tanzania = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1920px-Flag_of_Tanzania.svg.png"
 bandera_zimbabwe = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1920px-Flag_of_Zimbabwe.svg.png"
 bandera_bostwana = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1920px-Flag_of_Botswana.svg.png"
+
+# ------------------------------------------------------------------------------------------
 
 # Info parte 2
 animales = {

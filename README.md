@@ -41,8 +41,8 @@ A lo largo de la sesión, veremos varios ejercicios de menor a mayor dificultad 
 
 Los distintos ejercicios son:
 
-## [2.Bases](2.Bases)
+## [2.Bases](2.Bases/README.md)
 
-## [3.Interfaz](3.Interfaz)
+## [3.Interfaz](3.Interfaz/README.md)
 
-## [4.Logica](3.Logica)
+## [4.Logica](4.Logica/README.md)
