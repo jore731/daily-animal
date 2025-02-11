@@ -13,7 +13,7 @@ Continuamos en el archivo [bases_python.ipynb](bases_python.ipynb).
 
 Streamlit es una librería muy popular de python que nos permite hacer aplicaciones con una interfaz sencilla sin necesidad de salir del entorno python. En esta guía conoceremos los principales componentes de la librería y aprenderemos las bases de la misma.
 
-Para más información, consultamos la aplicación de ejemplo [tutorial-st.streamlit.app](tutorial-st.streamlit.app)
+Para más información, consultamos la aplicación de ejemplo [tutorial-st.streamlit.app](https://tutorial-st.streamlit.app)
 
 ---
 
