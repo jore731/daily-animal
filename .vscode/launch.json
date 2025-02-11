@@ -15,16 +15,6 @@
             ],
         },
         {
-            "name": "2.Bases",
-            "type": "debugpy",
-            "request": "launch",
-            "module": "streamlit",
-            "args": [
-                "run",
-                "2.Bases/streamlit_app.py"
-            ],
-        },
-        {
             "name": "3.Interfaz",
             "type": "debugpy",
             "request": "launch",
